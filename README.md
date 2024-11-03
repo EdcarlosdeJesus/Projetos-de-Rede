@@ -35,14 +35,16 @@ Aqui estão alguns laboratórios realizados durante meus cursos:
 3. **Laboratório de DHCP e DNS**
    - Descrição: Configuração de servidores DHCP e DNS.
    - [Ver Projeto](./laboratorios/dhcp-dns)
+     
+---
 
 ### Projetos Caseiros
 
 Estes são projetos que desenvolvi de forma independente:
 
-1. **Monitoramento de Rede com Nagios**
-   - Descrição: Implementação de uma ferramenta de monitoramento de rede.
-   - [Ver Projeto](./caseiros/nagios-monitoramento)
+1. **Ping / ICMP / Tracert**
+   - Descrição: Configuração e resolução de problemas de rede
+   - [Ver Projeto](./EdcarlosdeJesus/Network_Lab_Exercises)
 
 2. **Firewall com iptables**
    - Descrição: Configuração de um firewall utilizando iptables no Linux.
@@ -51,6 +53,8 @@ Estes são projetos que desenvolvi de forma independente:
 3. **Simulador de Ataques DDoS**
    - Descrição: Simulação de um ataque DDoS em um ambiente controlado para fins educacionais.
    - [Ver Projeto](./caseiros/ddos-simulator)
+     
+---
 
 ## Tecnologias Utilizadas
 
@@ -61,9 +65,7 @@ Estes são projetos que desenvolvi de forma independente:
 - Nagios
 - iptables
 
-## Como Contribuir
 
-Se você deseja contribuir para este repositório ou tem sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a melhorias e novas ideias!
 
 ## Licença
 
