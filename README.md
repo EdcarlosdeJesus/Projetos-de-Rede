@@ -44,7 +44,7 @@ Estes são projetos que desenvolvi de forma independente:
 
 1. **Ping / ICMP / Tracert**
    - Descrição: Configuração e resolução de problemas de rede
-   - [Ver Projeto] (<a href="https://github.com/EdcarlosdeJesus/Network_Lab_Exercises">)
+   - [Ver Projeto] (<a href ="https://github.com/EdcarlosdeJesus/Network_Lab_Exercises">)
 
 2. **Firewall com iptables**
    - Descrição: Configuração de um firewall utilizando iptables no Linux.
