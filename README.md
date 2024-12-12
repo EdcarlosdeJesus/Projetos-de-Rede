@@ -6,8 +6,7 @@
 
 - [Introdução](#introdução)
 - [Projetos](#projetos)
-  - [Laboratórios de Cursos](#laboratórios-de-cursos)
-  - [Projetos Caseiros](#projetos-caseiros)
+- [Projetos Caseiros](#projetos-caseiros)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
