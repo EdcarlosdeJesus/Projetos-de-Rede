@@ -18,42 +18,16 @@ As redes de computadores são a espinha dorsal da comunicação moderna. Este re
 
 ## 📁 Projetos
 
-### 💻 Laboratórios de Cursos
+ ### 💻🛠️ Projetos Caseiros
 
-Aqui estão alguns laboratórios realizados durante meus cursos:
-
-1. **Laboratório de Configuração de Roteadores** 🚀
-   - Descrição: Configuração básica de roteadores Cisco.
-   - [Ver Projeto](./laboratorios/roteadores)
-
-2. **Laboratório de VLANs** 🌈
-   - Descrição: Implementação de VLANs em um ambiente de switch.
-   - [Ver Projeto](./laboratorios/vlans)
-
-3. **Laboratório de DHCP e DNS** 🌐
-   - Descrição: Configuração de servidores DHCP e DNS.
-   - [Ver Projeto](./laboratorios/dhcp-dns)
-
----
-
-### 🛠️ Projetos Caseiros
-
-Estes são projetos que desenvolvi de forma independente:
+ 
 
 1. **Ping / ICMP / Tracert** 📶
    - Descrição: Configuração e resolução de problemas de rede.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Network_Lab_Exercises)
 
-2. **Firewall com iptables** 🔥
-   - Descrição: Configuração de um firewall utilizando iptables no Linux.
-   - [Ver Projeto](./caseiros/firewall-iptables)
-
-3. **Simulador de Ataques DDoS** 💥
-   - Descrição: Simulação de um ataque DDoS em um ambiente controlado para fins educacionais.
-   - [Ver Projeto](./caseiros/ddos-simulator)
-
----
-
+ 
+ 
 ## ⚙️ Tecnologias Utilizadas
 
 - **Vms** 🖥️
